@@ -1,4 +1,4 @@
-# Exam Portal
+<h1 align="center"><img src="docs/images/banner.svg" alt="Exam Portal: ASP.NET Core online examination portal."></h1>
 
 > ASP.NET Core online examination portal with admin, faculty and student roles.
 
@@ -60,6 +60,10 @@ Views/         Razor views per area
 Migrations/    EF Core migrations
 wwwroot/       Static assets
 ```
+
+## Status
+
+Legacy / archived-in-spirit: kept for reference, not under active development. No CI is configured and dependencies are not updated; do not deploy as-is.
 
 ## Security
 
